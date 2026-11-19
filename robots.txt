@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3km-collab.github.io/creative-industry-margin-benchmark-report-28/sitemap.xml
