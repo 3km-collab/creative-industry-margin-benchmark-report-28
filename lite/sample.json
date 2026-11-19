@@ -1,0 +1,82 @@
+[
+ {
+  "discipline": "Graphic design (studio)",
+  "typical_gross_margin": "50-60%",
+  "typical_net_margin": "12-20%",
+  "blended_hourly_cost_usd": "35",
+  "rate_card_multiple_of_cost": "3.0x",
+  "overhead_ratio": "30-35% of revenue",
+  "utilization_target": "70-80%",
+  "planning_notes": "Overhead heavy at scale; solo designers run 20-30% net"
+ },
+ {
+  "discipline": "Brand identity / strategy",
+  "typical_gross_margin": "55-65%",
+  "typical_net_margin": "18-25%",
+  "blended_hourly_cost_usd": "60",
+  "rate_card_multiple_of_cost": "3.5x",
+  "overhead_ratio": "25-30%",
+  "utilization_target": "70-80%",
+  "planning_notes": "High rate cards justify overhead; value pricing common"
+ },
+ {
+  "discipline": "Web design (agencies)",
+  "typical_gross_margin": "50-60%",
+  "typical_net_margin": "15-22%",
+  "blended_hourly_cost_usd": "45",
+  "rate_card_multiple_of_cost": "3.0x",
+  "overhead_ratio": "30-35%",
+  "utilization_target": "75-85%",
+  "planning_notes": "Productized retainers lift net margin"
+ },
+ {
+  "discipline": "UX research & design",
+  "typical_gross_margin": "55-65%",
+  "typical_net_margin": "18-25%",
+  "blended_hourly_cost_usd": "55",
+  "rate_card_multiple_of_cost": "3.5x",
+  "overhead_ratio": "25-30%",
+  "utilization_target": "75-85%",
+  "planning_notes": "Enterprise demand keeps utilization high"
+ },
+ {
+  "discipline": "Motion design / animation",
+  "typical_gross_margin": "45-55%",
+  "typical_net_margin": "10-18%",
+  "blended_hourly_cost_usd": "50",
+  "rate_card_multiple_of_cost": "3.2x",
+  "overhead_ratio": "35-40%",
+  "utilization_target": "65-80%",
+  "planning_notes": "Render/seat licenses inflate overhead"
+ },
+ {
+  "discipline": "Video production",
+  "typical_gross_margin": "40-50%",
+  "typical_net_margin": "10-18%",
+  "blended_hourly_cost_usd": "55",
+  "rate_card_multiple_of_cost": "3.0x",
+  "overhead_ratio": "35-45%",
+  "utilization_target": "60-75%",
+  "planning_notes": "Crew + gear days are the margin killer"
+ },
+ {
+  "discipline": "Social media management",
+  "typical_gross_margin": "60-70%",
+  "typical_net_margin": "20-30%",
+  "blended_hourly_cost_usd": "30",
+  "rate_card_multiple_of_cost": "4.0x",
+  "overhead_ratio": "20-25%",
+  "utilization_target": "80-90%",
+  "planning_notes": "Retainer model = most predictable margin"
+ },
+ {
+  "discipline": "SEO services",
+  "typical_gross_margin": "65-75%",
+  "typical_net_margin": "25-35%",
+  "blended_hourly_cost_usd": "35",
+  "rate_card_multiple_of_cost": "4.0x",
+  "overhead_ratio": "15-20%",
+  "utilization_target": "80-90%",
+  "planning_notes": "Tooling costs low; margin concentrated in senior time"
+ }
+]
